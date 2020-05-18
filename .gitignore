@@ -1,0 +1,5 @@
+.idea
+*.iml
+target/
+src/main/scala/nl/uva/ssc/task/Solution.scala
+
